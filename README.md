@@ -19,7 +19,7 @@ are as follows:
   - Cash flows are analyzed on an after-tax basis. Taxes must be fully reflected in all capital budgeting decisions
   - Capital budgeting cash flows are not accounting net income
 #### ```Concepts that are used for evaluation of capital investments```
-- [Net Present Value](https://github.com/Mike-Vilms/cfa-i-qm/blob/17deeba12123116925984d4e66b7cd34e7af682e/Net-Present-Value.md)
+- **[Net Present Value](https://github.com/Mike-Vilms/cfa-i-qm/blob/17deeba12123116925984d4e66b7cd34e7af682e/Net-Present-Value.md)**
 - Internal Rate of Return
 - Payback Period
 - 
