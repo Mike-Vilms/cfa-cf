@@ -27,7 +27,7 @@ are as follows:
 - **Average Accounting Rate of Return** = {Average net income} / {Average Book Value}; (Based on accounting numbers and not based on cash flows, does not account for the time value of money)
 - **Profitability Index == Benefit–cost Ratio** - {PV of future cash flows} / {Initial investment}
 - **[NPV Profile](https://github.com/Mike-Vilms/cfa-i-cf/blob/main/NPV-Profile.md)**
-- ```**Ranking Conflicts between NPV and IRR**```:
+- **```Ranking Conflicts between NPV and IRR```**:
   - In the case of two mutually exclusive projects, the two criteria will sometimes disagree. For example, Project A might have a larger NPV than Project B, but Project B has a higher IRR than Project A. In this case, should you invest in Project A or in Project B?
 
 
