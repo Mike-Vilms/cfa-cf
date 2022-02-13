@@ -20,7 +20,7 @@ are as follows:
   - Capital budgeting cash flows are not accounting net income
 #### ```Concepts that are used for evaluation of capital investments```
 - **[Net Present Value](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Net-Present-Value.md)**
-- Internal Rate of Return
+- **[Internal Rate of Return](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Internal-Rate-of-Return.md)**
 - Payback Period
 - 
 ## Cost Of Capital
