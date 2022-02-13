@@ -18,9 +18,14 @@ are as follows:
   - Cash flows are based on opportunity costs. What are the incremental cash flows that occur with an investment compared to what they would have been without the investment?
   - Cash flows are analyzed on an after-tax basis. Taxes must be fully reflected in all capital budgeting decisions
   - Capital budgeting cash flows are not accounting net income
+
+
 #### ```Concepts that are used for evaluation of capital investments```
 - **[Net Present Value](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Net-Present-Value.md)**
 - **[Internal Rate of Return](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Internal-Rate-of-Return.md)**
 - **Discounted payback period** - is the number of years it takes for the cumulative discounted cash flows from a project to equal the original investment
 - **Average Accounting Rate of Return** = {Average net income} / {Average Book Value}; (Based on accounting numbers and not based on cash flows, does not account for the time value of money)
+- **Profitability Index == Benefit–cost Ratio** - {PV of future cash flows} / {Initial investment}
+- **[NPV Profile](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Net-Present-Value.md)**
+
 ## Cost Of Capital
