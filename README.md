@@ -26,6 +26,6 @@ are as follows:
 - **Discounted payback period** - is the number of years it takes for the cumulative discounted cash flows from a project to equal the original investment
 - **Average Accounting Rate of Return** = {Average net income} / {Average Book Value}; (Based on accounting numbers and not based on cash flows, does not account for the time value of money)
 - **Profitability Index == Benefit–cost Ratio** - {PV of future cash flows} / {Initial investment}
-- **[NPV Profile](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Net-Present-Value.md)**
+- **[NPV Profile](https://github.com/Mike-Vilms/cfa-i-cf/blob/main/NPV-Profile.md)**
 
 ## Cost Of Capital
