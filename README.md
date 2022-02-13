@@ -21,6 +21,6 @@ are as follows:
 #### ```Concepts that are used for evaluation of capital investments```
 - **[Net Present Value](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Net-Present-Value.md)**
 - **[Internal Rate of Return](https://github.com/Mike-Vilms/cfa-i-qm/blob/main/Internal-Rate-of-Return.md)**
-- Payback Period
+- **Discounted payback period** - is the number of years it takes for the cumulative discounted cash flows from a project to equal the original investment
 - 
 ## Cost Of Capital
