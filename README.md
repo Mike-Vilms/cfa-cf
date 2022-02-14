@@ -31,8 +31,8 @@ are as follows:
   - In the case of two mutually exclusive projects, the two criteria will sometimes disagree. For example, Project A might have a larger NPV than Project B, but Project B has a higher IRR than Project A. In this case, should you invest in Project A or in Project B?
   - Whenever the NPV and IRR rank two mutually exclusive projects differently, as they do in the example, **you should choose the project based on the NPV**:
   - ![image](https://user-images.githubusercontent.com/85560091/153772756-c576823c-d70e-4140-a200-6887437ca4a5.png)
-- **```The Multiple IRR Problem and the No IRR Problem```**:
-  -  
-
+- **```The Multiple IRR Problem and the No IRR Problem```**: *IRR only guaranteed to work if all of the negative cash flows occur before the positive cash flows*
+  - **[When IRR Fails: The Case of Delayed Investments](https://www.youtube.com/watch?v=Y4rDniH3Nk0)**
+  - **[When IRR Fails: The Case of Multiple IRRs for the Same Project](https://www.youtube.com/watch?v=BohOLldcoxk)**
 
 ## Cost Of Capital
