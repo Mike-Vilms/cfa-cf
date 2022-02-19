@@ -41,5 +41,11 @@ are as follows:
   - **[When IRR Fails: The Case of Multiple IRRs for the Same Project](https://www.youtube.com/watch?v=BohOLldcoxk)**
 
 ## Cost Of Capital
-#### ```Applying the Cost of Capital to Capital Budgeting and Security Valuation```
+#### ```Applying the Cost of Capital to Capital Budgeting and Security Valuation #TODO ???```
+#### ```Cost of Debt```
+- The cost of debt is the cost of debt financing to a company when it issues a bond or takes out a bank loan
+- Consider two methods to estimate the *before-tax cost of debt*: 
+  - The yield-to-maturity approach 
+  - Debt-rating approach
 - 
+
