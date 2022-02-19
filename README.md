@@ -1,4 +1,6 @@
 # Corporate Finance
+- **[Capital Budgeting](#Capital-Budgeting)
+- **[Cost Of Capital](#Cost-Of-Capital)
 
 ## Corporate Governance and ESG: An Introduction
 
