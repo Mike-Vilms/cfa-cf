@@ -1,6 +1,6 @@
 # Corporate Finance
-- **[Capital Budgeting](#Capital-Budgeting)
-- **[Cost Of Capital](#Cost-Of-Capital)
+- **[Capital Budgeting](#Capital-Budgeting)**
+- **[Cost Of Capital](#Cost-Of-Capital)**
 
 ## Corporate Governance and ESG: An Introduction
 
@@ -41,3 +41,5 @@ are as follows:
   - **[When IRR Fails: The Case of Multiple IRRs for the Same Project](https://www.youtube.com/watch?v=BohOLldcoxk)**
 
 ## Cost Of Capital
+#### ```Applying the Cost of Capital to Capital Budgeting and Security Valuation```
+- 
